@@ -2,5 +2,7 @@ package hello2
 
 class HelloController {
 
-    def index() { }
+    def index() { 
+        render "Hello World from Vikas!"
+    }
 }
