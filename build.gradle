@@ -63,3 +63,6 @@ assets {
     minifyJs = true
     minifyCss = true
 }
+war {
+    archiveName = 'output.war'
+}
