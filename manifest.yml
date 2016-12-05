@@ -1,0 +1,5 @@
+---
+applications:
+- name: grails-demo-vtiwari4
+  memory: 512M
+  path: build/libs/output.war
